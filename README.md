@@ -7,5 +7,6 @@ Las funciones estan en el orden descrito en el enunciado, el cual quedará subid
 
 Las funciones pueden ser comentadas para poder evaluarlas una a una.
 
-El dataset utilizado es el siguiente: [link](https://www.kaggle.com/datasets/prathamsharma123/farmers-protest-tweets-dataset-raw-json), el cual por motivos de peso, no quedará subido al github.
+El dataset utilizado es el siguiente: [link](https://www.kaggle.com/datasets/prathamsharma123/farmers-protest-tweets-dataset-raw-json)
+el cual por motivos de peso, no quedará subido al github.
 
